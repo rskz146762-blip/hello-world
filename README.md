@@ -1,2 +1,3 @@
 # hello-world
-此储存库用于联系GitHub流
+This repository is used to contact GitHub flows
+2026.1.29   10:13  于山东中医药大学写下git hub 第一行
